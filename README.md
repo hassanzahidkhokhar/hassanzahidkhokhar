@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Hassan Zahid
 
-<!--
-**hassanzahidkhokhar/hassanzahidkhokhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* 🎓 Software Engineering Student
+* 🐍 Python Developer
+* ☁️ Cloud Engineering Certified
+* 🌐 Basic HTML & CSS
+* 🚀 Learning more backend development skills & frontend
+* 💻 Interested in Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Python
+* OOP
+* HTML
+* CSS
+* Cloud Engineering
+
+## Projects
+
+* 🏦 Banking System — Python OOP
