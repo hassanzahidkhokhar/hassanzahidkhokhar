@@ -6,7 +6,7 @@
 * 🐍 Python Developer
 * ☁️ Cloud Engineering Certified
 * 🌐 Basic HTML & CSS
-* 🚀 Learning more backend development skills & frontend
+* 🚀 Learning more backend & frontend development skills 
 * 💻 Interested in Software Development
 
 ## Skills
